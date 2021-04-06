@@ -11,6 +11,7 @@ type Payment	struct {
 	Status Status
 
 }
+//lawkjdlawkjdlkawjdkawd
 
 type Status string
 
